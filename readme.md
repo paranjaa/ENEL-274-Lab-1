@@ -1,6 +1,6 @@
 _This is (mostly) regular test, it's italicized_
 
-```
+```c++
 //This is a block of code for hello world
 #include <iostream>
 using namespace std;
